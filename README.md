@@ -11,12 +11,12 @@
 
 ## Team
 
-| Name | Student ID | GitHub / ADO Username | Role |
-|------|------------|----------------------|------|
-| Riker | <!-- e.g. W123456 --> | <!-- @username --> | <!-- e.g. Lead Developer, Infrastructure, Documentation --> |
-| Caleb | 20240970 | | |
-| Shatha| | | |
-| | | | |
+| Name    | Student ID | GitHub / ADO Username | Role |
+|---------|------------|-----------------------|------|
+| Riker   | 20241490 | | Coder |
+| Caleb   | 20240970 | | Coder |
+| Shatha  | 20251597 | | Documenter |
+| Fatimah | 20251554 | | Documenter |
 
 **Course:** BACT7602 Cloud Computing — Whitecliffe  
 **Assessment:** Assessment 2 — Group Cloud Project (70%)  
