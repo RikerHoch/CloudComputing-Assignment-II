@@ -13,7 +13,7 @@
 
 | Name | Student ID | GitHub / ADO Username | Role |
 |------|------------|----------------------|------|
-| <!-- Full name --> | <!-- e.g. W123456 --> | <!-- @username --> | <!-- e.g. Lead Developer, Infrastructure, Documentation --> |
+| Riker | <!-- e.g. W123456 --> | <!-- @username --> | <!-- e.g. Lead Developer, Infrastructure, Documentation --> |
 | | | | |
 | | | | |
 | | | | |
