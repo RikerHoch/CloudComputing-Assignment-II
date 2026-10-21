@@ -1,6 +1,7 @@
 # [Project Title] — BACT7602 Cloud Computing
 <!-- Replace [Project Title] with your project name, e.g. "AcmeRetail Cloud Migration" -->
 
+
 <!-- Pipeline / deployment status badges — replace URLs after you set up your pipeline -->
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Azure](https://img.shields.io/badge/platform-Microsoft%20Azure-0078D4?logo=microsoftazure)
