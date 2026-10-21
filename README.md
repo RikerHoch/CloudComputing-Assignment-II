@@ -15,7 +15,7 @@
 |------|------------|----------------------|------|
 | Riker | <!-- e.g. W123456 --> | <!-- @username --> | <!-- e.g. Lead Developer, Infrastructure, Documentation --> |
 | Caleb | 20240970 | | |
-| | | | |
+| Shatha| | | |
 | | | | |
 
 **Course:** BACT7602 Cloud Computing — Whitecliffe  
