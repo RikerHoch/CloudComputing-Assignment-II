@@ -14,7 +14,7 @@
 | Name | Student ID | GitHub / ADO Username | Role |
 |------|------------|----------------------|------|
 | Riker | <!-- e.g. W123456 --> | <!-- @username --> | <!-- e.g. Lead Developer, Infrastructure, Documentation --> |
-| Caleb | | | |
+| Caleb | 20240970 | | |
 | | | | |
 | | | | |
 
