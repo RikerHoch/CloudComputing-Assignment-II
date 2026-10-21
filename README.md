@@ -14,7 +14,8 @@
 | Name    | Student ID | GitHub / ADO Username | Role |
 |---------|------------|-----------------------|------|
 | Riker   | 20241490 | | Coder |
-| Caleb   | 20240970 | | Coder |
+| Caleb   | [20240970](mailto:20240970@mywhitecliffe.com)
+ | | Coder |
 | Shatha  | 20251597 | | Documenter |
 | Fatimah | 20251554 | | Documenter |
 
