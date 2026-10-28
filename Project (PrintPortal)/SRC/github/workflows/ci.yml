@@ -1,0 +1,23 @@
+name: CI Checks
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+      - uses: actions/checkout@v6
+
+      - name: Check HTML files exist
+        run: |
+          test -f index.html
+          test -d SRC
